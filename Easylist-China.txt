@@ -17301,7 +17301,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||2hukaixi.xyz^
 ||2kjg.xyz^
 ||2laezi9.cn^
-||2txt.cc:8862^
+||2txt.cc^
 ||2zm4.cn^
 ||3-2g38cfo0l.cn^
 ||300segundos.com^
